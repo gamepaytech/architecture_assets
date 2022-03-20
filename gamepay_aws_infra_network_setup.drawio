@@ -1,4 +1,4 @@
-<mxfile modified="2022-03-20T12:17:25.723Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="pBGF9ocE6yt2-W11SOZr" version="17.1.2" type="github" pages="2">
+<mxfile modified="2022-03-20T12:19:04.921Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="KDYver0gHhoQ3xG7sVj4" version="17.1.2" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1161" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
         <mxCell id="gyqDpKCX4TDHPv0ywMbh-0" />
         <mxCell id="gyqDpKCX4TDHPv0ywMbh-1" parent="gyqDpKCX4TDHPv0ywMbh-0" />
         <mxCell id="gyqDpKCX4TDHPv0ywMbh-10" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" parent="gyqDpKCX4TDHPv0ywMbh-1" vertex="1">
-          <mxGeometry x="-150" y="-140" width="1240" height="940" as="geometry" />
+          <mxGeometry x="-150" y="-140" width="1240" height="920" as="geometry" />
         </mxCell>
         <mxCell id="gyqDpKCX4TDHPv0ywMbh-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=none;elbow=vertical;startArrow=openThin;startFill=0;strokeColor=#545B64;rounded=0;" parent="gyqDpKCX4TDHPv0ywMbh-10" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -226,7 +226,7 @@
           <mxGeometry x="19.89" y="571.93" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gyqDpKCX4TDHPv0ywMbh-12" value="&lt;b&gt;AWS Region&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="gyqDpKCX4TDHPv0ywMbh-10" vertex="1">
-          <mxGeometry x="619.89" y="877.4" width="80" height="30" as="geometry" />
+          <mxGeometry x="632.89" y="877.4" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BX5cHhHJQbq8BXAtZxhY-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;CHICKEY CHIK - AWS INFRASTRUCTURE &amp;amp; NETWORK&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gyqDpKCX4TDHPv0ywMbh-10">
           <mxGeometry x="427.87" y="10" width="496.11" height="30" as="geometry" />
@@ -247,7 +247,7 @@
           <mxGeometry x="639.9990721649485" y="73.33000000000001" width="71.84536082474227" height="72" as="geometry" />
         </mxCell>
         <mxCell id="BX5cHhHJQbq8BXAtZxhY-1" value="&lt;b&gt;Virtual Private Cloud&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="gyqDpKCX4TDHPv0ywMbh-10">
-          <mxGeometry x="593.89" y="805.27" width="140" height="30" as="geometry" />
+          <mxGeometry x="602.89" y="805.27" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5qr1AgWUWyFfjsbozsjg-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=none;strokeColor=#666666;arcSize=19;container=0;" parent="gyqDpKCX4TDHPv0ywMbh-10" vertex="1">
           <mxGeometry x="274.4260824742268" y="318.5454545454545" width="249.89690721649487" height="208.85454545454547" as="geometry" />
@@ -265,7 +265,7 @@
           <mxGeometry x="274.4260824742268" y="582.1786363636363" width="249.89690721649487" height="215.22136363636363" as="geometry" />
         </mxCell>
         <mxCell id="5qr1AgWUWyFfjsbozsjg-21" value="Dedicated custom network ACL" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="gyqDpKCX4TDHPv0ywMbh-10" vertex="1">
-          <mxGeometry x="274.4260824742268" y="603.7007727272727" width="249.89690721649487" height="20.497272727272723" as="geometry" />
+          <mxGeometry x="275.43" y="606.7" width="245.57" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="5qr1AgWUWyFfjsbozsjg-22" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Private subnet B&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;10.0.0.0/19&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;8187 IP addresses&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;container=0;" parent="gyqDpKCX4TDHPv0ywMbh-10" vertex="1">
           <mxGeometry x="322.4831800158604" y="664.1677272727272" width="182.61697065820778" height="122.98363636363636" as="geometry" />
